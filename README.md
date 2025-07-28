@@ -38,4 +38,5 @@ Here are some ideas to get you started:
 - ![Intelij IDEA](https://img.shields.io/badge/Intelij%20IDEA-000000.svg?&style=for-the-badge&logo=Intelij%20IDEA&logoColor=white)
 
 ### OS
+- ![Windows](https://img.shields.io/badge/Windows-007396?style=for-the-badge)
 - ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white)
