@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!--![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=brian-223134&show_icons=true&theme=radical]) -->
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjkim2002)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjkim2002&langs_count=5&layout=compact&theme=dark)
 # 💪Skills
 ### Languages & Framework
 - ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
