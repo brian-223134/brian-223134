@@ -30,8 +30,12 @@ Here are some ideas to get you started:
 ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?&style=for-the-badge&logo=SQLite&logoColor=white)
 
 ### Tools
-- ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)<br>
+- ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+
+### Dev
 - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 - ![Visual Studio](https://img.shields.io/badge/IDE-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
-- ![Intelij IDEA](https://img.shields.io/badge/Intelij%20IDEA-000000.svg?&style=for-the-badge&logo=Intelij%20IDEA&logoColor=white) <br>
+- ![Intelij IDEA](https://img.shields.io/badge/Intelij%20IDEA-000000.svg?&style=for-the-badge&logo=Intelij%20IDEA&logoColor=white)
+
+### OS
 - ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white)
