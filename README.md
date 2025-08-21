@@ -1,4 +1,4 @@
-## Kim Chan Joong 👋
+## Kim Chan Joong
 
 <!--
 **brian-223134/brian-223134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!--![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=brian-223134&show_icons=true&theme=radical]) -->
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjkim2002)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brian-223134&langs_count=10&layout=compact&theme=dark)
-# 💪Skills
+# Skills
 ### Languages & Framework
 - ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
