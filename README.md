@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjkim2002)
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brian-223134&layout=compact&bg_color=60,8473c3,92a7bf&title_color=14093e&text_color=14093e")
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brian-223134&langs_count=10&layout=compact&theme=dark)-->
-# Skills
+<!--# Skills
 ### Languages & Framework
 - ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
@@ -42,3 +42,4 @@ Here are some ideas to get you started:
 ### OS
 - ![Windows](https://img.shields.io/badge/Windows-007396?style=for-the-badge)
 - ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white)
+-->
