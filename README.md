@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!--![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=brian-223134&show_icons=true&theme=radical]) -->
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjkim2002)
-![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brian-223134&layout=compact&bg_color=60,8473c3,92a7bf&title_color=14093e&text_color=14093e")
+<!--![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brian-223134&layout=compact&bg_color=60,8473c3,92a7bf&title_color=14093e&text_color=14093e") -->
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brian-223134&langs_count=10&layout=compact&theme=dark)-->
 <!--# Skills
 ### Languages & Framework
