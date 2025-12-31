@@ -1,45 +1,29 @@
-## Kim Chan Joong
+<div align="center">
 
-<!--
-**brian-223134/brian-223134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Kim Chan Joong
+  
+  <img src="https://img.shields.io/badge/Solved.ac-Tier-00C73C?style=flat-square&logo=solved.ac&logoColor=white"/>
+  <a href="https://solved.ac/cjkim2002"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cjkim2002" height="150"></a>
 
-Here are some ideas to get you started:
+  <p>🌱 I'm a developer passionate about building robust backend systems (+ Security) and solving complex problems.</p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=brian-223134&show_icons=true&theme=radical]) -->
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjkim2002)
-<!--![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brian-223134&layout=compact&bg_color=60,8473c3,92a7bf&title_color=14093e&text_color=14093e") -->
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brian-223134&langs_count=10&layout=compact&theme=dark)-->
-<!--# Skills
-### Languages & Framework
-- ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=white)<br>
-- ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white)<br>
-- ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)<br>
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?&style=for-the-badge&logo=SQLite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white)
 
-### Tools
-- ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+---
 
-### Dev
-- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-- ![Visual Studio](https://img.shields.io/badge/IDE-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
-- ![Intelij IDEA](https://img.shields.io/badge/Intelij%20IDEA-000000.svg?&style=for-the-badge&logo=Intelij%20IDEA&logoColor=white)
+### 🚀 Tech Stack
 
-### OS
-- ![Windows](https://img.shields.io/badge/Windows-007396?style=for-the-badge)
-- ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white)
--->
+<div align="left">
+
+#### 🔤 Languages & Frameworks
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+
+#### 🗄️ Database & Infra
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+
+#### 💻 IDEs
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+
+</div>
