@@ -1,8 +1,11 @@
-<div align="center">
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&text=NULL&animation=fadeIn&fontColor=000000&fontSize=50" />
+</div>
 
-# Kim Chan Joong
+---
+
+<div align="left">
   
-  <img src="https://img.shields.io/badge/Solved.ac-Tier-00C73C?style=flat-square&logo=solved.ac&logoColor=white"/>
   <a href="https://solved.ac/cjkim2002"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cjkim2002" height="150"></a>
 
   <p>🌱 I'm a developer passionate about building robust backend systems (+ Security) and solving complex problems.</p>
