@@ -8,7 +8,9 @@
   
   <a href="https://solved.ac/cjkim2002"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cjkim2002" height="150"></a>
 
-  <p>🌱 I'm a developer passionate about building robust backend systems (+ Security) and solving complex problems.</p>
+  <p> - I'm a developer passionate about building robust backend systems and solving complex problems.</p>
+  <p> - I also interested in computer security especially about web and code vulnerability. </p>
+  <p> - I now do projects about analyzing SBOM results and developing unified SBOM. </p>
 </div>
 
 
