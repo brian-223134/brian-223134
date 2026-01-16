@@ -36,3 +36,12 @@
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 
 </div>
+
+---
+
+### Github STATS
+
+<div>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brian-223134&theme=github)
+</div>
