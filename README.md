@@ -44,9 +44,11 @@
 <div>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brian-223134&theme=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brian-223134&hide=Batchfile,Makefile,shell,CMake&langs_count=4&size_weight=0.5&count_weight=0.5)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brian-223134&hide=Batchfile,Makefile,shell,CMake&langs_count=4&size_weight=0.5&count_weight=0.5) -->
 
 </div>
+
+---
 
 ### 🌾 Farm
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=brian-223134&utm_content=farm">
