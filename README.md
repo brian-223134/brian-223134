@@ -39,7 +39,7 @@
 
 ---
 
-### Github STATS & Languages
+### Github STATS
 
 <div>
 
