@@ -10,7 +10,7 @@
 
    - I'm a developer passionate about building robust backend systems and solving complex problems.</p>
    - I also interested in computer security especially about web and code vulnerability. </p>
-   - I now do projects about analyzing SBOM results and developing unified SBOM. </p>
+   - I now do projects about analyzing SBOM results and developing prototype of Unified SBOM (with Hatbom and Syft generated). </p>
 </div>
 
 
