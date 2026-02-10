@@ -45,7 +45,7 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brian-223134&hide=Batchfile,Makefile,shell,CMake&langs_count=4&size_weight=0.5&count_weight=0.5) -->
 <br>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=brian-223134&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=69.5%/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=brian-223134&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=80/>
 </a>
 
 </div>
