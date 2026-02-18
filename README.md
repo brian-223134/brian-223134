@@ -4,7 +4,6 @@
 
 ---
 
-
 <div align="left">
   
   <a href="https://solved.ac/cjkim2002"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cjkim2002" height="150"></a>
@@ -13,7 +12,6 @@
    - I also interested in computer security especially about web and code vulnerability. </p>
    - I now do projects about analyzing SBOM results and developing prototype of Unified SBOM (with Hatbom and Syft generated). </p>
 </div>
-
 
 ---
 
