@@ -9,7 +9,7 @@
   <a href="https://solved.ac/cjkim2002"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cjkim2002" height="150"></a>
 
    - I'm a developer passionate about building robust backend systems and solving complex problems.</p>
-   - I interested in computer security especially about web and LLM and Data Science(Knowledge Graph, GNN). </p>
+   - I am interested in computer security especially about web, LLM and Data Science(Knowledge Graph, GNN). </p>
    - I now do projects about analyzing SBOM results and developing prototype of Unified SBOM(Hatbom and Syft). </p>
 </div>
 
