@@ -10,7 +10,7 @@
 
    - I'm a developer passionate about building robust backend systems and solving complex problems.</p>
    - I am interested in computer security especially about web, LLM and Data Science(Knowledge Graph, GNN). </p>
-   - I now do projects about analyzing SBOM results and developing prototype of Unified SBOM(Hatbom and Syft). </p>
+   - I have done projects about analyzing SBOM results and developing prototype of Unified SBOM(Hatbom and Syft). </p>
 </div>
 
 ---
