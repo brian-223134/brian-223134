@@ -33,6 +33,9 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+#### ⚙️ Data Engineering
+![Airbyte](https://img.shields.io/badge/Airbyte-5A47F2?style=for-the-badge&logo=Airbyte&logoColor=white)
+
 </div>
 
 ---
