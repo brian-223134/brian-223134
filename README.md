@@ -35,6 +35,7 @@
 
 #### ⚙️ Data Engineering
 ![Airbyte](https://img.shields.io/badge/Airbyte-5A47F2?style=for-the-badge&logo=Airbyte&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
 </div>
 
