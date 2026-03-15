@@ -5,15 +5,28 @@
 ---
 
 <div align="left">
-  
-  <a href="https://solved.ac/cjkim2002"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cjkim2002" height="150"></a>
-
-   - I'm a developer passionate about building robust backend systems and solving complex problems.</p>
-   - I am interested in computer security especially about web, LLM and Data Science(Knowledge Graph, GNN). </p>
-   - I have done projects about analyzing SBOM results and developing prototype of Unified SBOM(Hatbom and Syft). </p>
-   - I am currently working as an industry-academia cooperation intern and learning data engineering(and Dev-ops) using AWS, Airbyte, and DBT. </p>
-   
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=brian-223134&show_icons=true&theme=transparent"
+    height="140"
+    alt="brian's GitHub stats"
+  />
+  <a href="https://solved.ac/cjkim2002">
+    <img
+      src="https://mazassumnida.wtf/api/v2/generate_badge?boj=cjkim2002"
+      height="140"
+      alt="Solved.ac Profile"
+    />
+  </a>
 </div>
+
+<br/>
+
+<ul>
+  <li>I'm a developer passionate about building robust backend systems and solving complex problems.</li>
+  <li>I am interested in computer security, especially web, LLM, and Data Science (Knowledge Graph, GNN).</li>
+  <li>I have done projects about analyzing SBOM results and developing a prototype of Unified SBOM (Hatbom and Syft).</li>
+  <li>I am currently working as an industry-academia cooperation intern and learning data engineering (and DevOps) using AWS, Airbyte, and DBT.</li>
+</ul>
 
 ---
 
