@@ -56,19 +56,19 @@
 
 ---
 
-### Github STATS
+<!-- ### Github STATS
 
 <div>
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brian-223134&theme=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brian-223134&hide=Batchfile,Makefile,shell,CMake&langs_count=4&size_weight=0.5&count_weight=0.5) -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=brian-223134&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=80%/>
 </a>
 
 </div>
 
----
+--- --->
 
 ### 🌾 Farm
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=brian-223134&utm_content=farm">
