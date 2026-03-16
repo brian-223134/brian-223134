@@ -23,8 +23,8 @@
 
 <ul>
   <li>I'm a developer passionate about building robust backend systems and solving complex problems.</li>
-  <li>I am interested in computer security, especially web, LLM, and Data Science (Knowledge Graph, GNN).</li>
-  <li>I have done projects about analyzing SBOM results and developing a prototype of Unified SBOM (Hatbom and Syft).</li>
+  <li>I am interested in LLM(NLP, Agentic AI), and Data Science(Knowledge Graph, GNN).</li>
+  <li>I have done projects about analyzing SBOM results and developing a prototype of Unified SBOM(with Hatbom and Syft).</li>
   <li>I am currently working as an industry-academia cooperation intern and learning data engineering(and Dev-Ops) using AWS, Sentry, Datadog, Airbyte, and DBT.</li>
 </ul>
 
