@@ -1,9 +1,10 @@
+<!--
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&text=Infrastructure%20as%20Code&animation=fadeIn&fontColor=000000&fontSize=50" />
 </div>
 
 ---
-
+-->
 <div align="left">
   <img
     src="https://github-readme-stats.vercel.app/api?username=brian-223134&show_icons=true&theme=transparent"
