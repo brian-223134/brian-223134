@@ -27,6 +27,7 @@
 |:---:|:---|:---|
 | 2026.03 ~ | **Blitz-Dynamics** | Data Engineer Intern (산학협력) |
 | 2025.12 - 2026.02 | **고려대학교 컴퓨터통신보안연구실** | Research Intern |
+| 2023.03 ~ 2024.07 | **USFK PMO (주한미군사령부 군사경찰참모부)** | KATUSA — Law Enforcement / Protection |
 
 <details>
 <summary><b>📌 상세 내용 보기</b></summary>
@@ -40,6 +41,12 @@
 - [**Unified SBOM**](https://github.com/brian-223134/Unified_SBOM): Syft + Hatbom을 통합한 SBOM 프로토타입 개발
 - IoTcube.net 플랫폼의 핵심 기능으로 배포 — 소스코드 업로드 기반 자동 SBOM 추출 및 취약점 분석 구현
 - 의존성 파싱 자동화 및 소프트웨어 공급망 보안 리스크 탐지 프레임워크 고도화
+
+### USFK PMO — KATUSA
+- **Law Enforcement**: 시위·범죄 분석 및 부대 출입 권한 관리 업무 수행
+- **Protection**: 상병 말 PMO Protection으로 보직 전환, 보안·경호 업무 담당
+- **문서 전산화**: 기존 수기 문서 체계의 디지털 전환 업무 수행
+- 복무 공로로 **미 국방부 Joint Service Achievement Medal (JSAM)** 수훈
 
 </details>
 
@@ -91,7 +98,7 @@
 | 연도 | 내용 |
 |:---:|:---|
 | 2025.03 ~ | **KT Digital Talent Scholarship** — 우수 IT 역량 선발 장학금 |
-| 2024.07 | **Joint Service Achievement Medal (JSAM)** — 미 국방부 수여, KATUSA 복무 중 공로 |
+| 2024.07 | **Joint Service Achievement Medal (JSAM)** — 미 국방부 수여, USFK PMO 복무 중 공로 |
 
 ---
 
