@@ -129,8 +129,3 @@
 <img src="https://render.gitanimals.org/farms/brian-223134" width="600" height="300" />
 </a>
 
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:232526,100:414345&height=100&section=footer" width="100%" />
-</div>
