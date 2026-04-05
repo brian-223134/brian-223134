@@ -43,9 +43,9 @@
 - 의존성 파싱 자동화 및 소프트웨어 공급망 보안 리스크 탐지 프레임워크 고도화
 
 ### USFK PMO — KATUSA
-- **Law Enforcement**: 시위·범죄 분석 및 부대 출입 권한 관리 업무 수행
-- **Protection**: 상병 말 PMO Protection으로 보직 전환, 보안·경호 업무 담당
-- **문서 전산화**: 기존 수기 문서 체계의 디지털 전환 업무 수행
+- **Law Enforcement**: 시위·범죄 분석 및 형법 관련 업무 수행
+- **Protection**: 상병 말 PMO Protection으로 보직 전환, 부대 출입 권한 및 보안 업무, 전산화 업무
+- **문서 전산화**: 기존 수기 문서 체계의 디지털 전환 업무 수행 (Power BI)
 - 복무 공로로 **미 국방부 Joint Service Achievement Medal (JSAM)** 수훈
 
 </details>
