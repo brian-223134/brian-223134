@@ -128,7 +128,6 @@
   <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=cjkim2002" height="160" alt="Solved.ac Profile" />
 </a>
 
-
 ---
 
 ## 🌾 Farm
