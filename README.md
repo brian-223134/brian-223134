@@ -26,7 +26,7 @@
 | 기간 | 소속 | 역할 |
 |:---:|:---|:---|
 | 2026.03 ~ 2026.06 | **Blitz-Dynamics** | Data Engineer Intern (산학협력) |
-| 2025.12 - 2026.02 | **고려대학교 컴퓨터통신보안연구실** | Research Intern |
+| 2025.12 - 2026.02 | **고려대학교 컴퓨터통신보안연구실 (CCS LAB)** | Research Intern |
 | 2023.03 ~ 2024.07 | **USFK PMO (주한미군사령부 군사경찰참모부)** | KATUSA — Law Enforcement / Protection |
 
 <details>
