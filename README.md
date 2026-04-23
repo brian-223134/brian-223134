@@ -14,7 +14,7 @@
 
 **중앙대학교 소프트웨어학부** 재학 중이며, 견고한 백엔드 시스템 설계와 데이터 엔지니어링에 열정을 가진 개발자입니다.
 
-- 🔭 현재 **Blitz-Dynamics**에서 산학협력 Data Engineer(& DevOps) 인턴으로 근무 중
+- 🔭 현재 **Blitz-Dynamics**에서 산학협력 DevOps(& Data Engineering) 인턴으로 근무 중
 - 🧠 관심 분야: **LLM / Agentic AI**, **Data Science/Engineer**
 - 🛡️ 고려대학교 보안 연구실에서 **소프트웨어 공급망 보안(SBOM)** 연구 경험
 - 🌐 오픈소스 프로젝트 **anchore/syft**에 버그 리포트 및 기여
@@ -25,16 +25,17 @@
 
 | 기간 | 소속 | 역할 |
 |:---:|:---|:---|
-| 2026.03 ~ 2026.06 | **Blitz-Dynamics** | Data Engineer Intern (산학협력) |
+| 2026.03 ~ 2026.06 | **Blitz-Dynamics** | Dev Ops Intern (산학협력) |
 | 2025.12 - 2026.02 | **고려대학교 컴퓨터통신보안연구실 (CCS LAB)** | Research Intern |
 | 2023.03 ~ 2024.07 | **USFK PMO (주한미군사령부 군사경찰참모부)** | KATUSA — Law Enforcement / Protection |
 
 <details>
 <summary><b>📌 상세 내용 보기</b></summary>
 
-### Blitz-Dynamics — Data Engineer Intern
+### Blitz-Dynamics — Dev Ops Intern
 - **IaC**: Pulumi를 활용한 AWS 리소스 프로비저닝 및 버전 관리
 - **Observability**: Datadog 실시간 대시보드 설계, Sentry 커스텀 태깅 기반 인시던트 대응 체계 구축
+- **SRE**: 신뢰성 높은 프로덕션 유지를 위한 대시보드 구축 및 비즈니스적인 에러의 가시화
 - **Data Pipeline**: ELT 파이프라인 설계 — 다양한 원시 데이터를 클라우드 DW로 적재·변환, ML 워크로드에 최적화된 스키마 설계
 
 ### Korea University — Research Intern
