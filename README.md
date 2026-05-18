@@ -116,10 +116,10 @@
 
 ## 🏠 Activities
 
-- **CUAI** (중앙대 AI 학회) — LLM & Data Science 스터디 `2026~`
+- **CUAI** (중앙대 AI 학회) — LLM & Data Science 스터디 `2026`
 - **LikeLion 13th** — 백엔드 개발 `2025`
-- **CAUtion** (사이버보안 동아리) `2022-2023, 2025~`
-- **Zeropage** (개발 동아리) `2022~`
+- **CAUtion** (사이버보안 동아리) `2022-2023, 2025-2026`
+- **Zeropage** (개발 동아리) `2022-2026`
 
 ---
 
