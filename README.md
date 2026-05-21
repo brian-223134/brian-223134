@@ -15,7 +15,7 @@
 **중앙대학교 소프트웨어학부** 재학 중이며, 견고한 백엔드 시스템 설계와 데이터 엔지니어링에 열정을 가진 개발자입니다.
 
 - 🔭 현재 **Blitz-Dynamics**에서 산학협력 DevOps(& Data Engineering) 인턴으로 근무 중
-- 🧠 관심 분야: **LLM / Agentic AI**, **Data Science/Engineer**
+- 🧠 관심 분야: **LLM / Agentic AI**, **Data Science/Engineer**, **DevOps**
 - 🛡️ 고려대학교 보안 연구실에서 **소프트웨어 공급망 보안(SBOM)** 연구 경험
 - 🌐 오픈소스 프로젝트 **anchore/syft**에 버그 리포트 및 기여
 
