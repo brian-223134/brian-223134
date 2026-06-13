@@ -37,7 +37,7 @@
 - **IaC**: Pulumi를 활용한 AWS 리소스 프로비저닝 및 버전 관리
 - **Observability**: Datadog 실시간 대시보드 설계, Sentry 커스텀 태깅 기반 인시던트 대응 체계 구축
 - **SRE**: 신뢰성 높은 프로덕션 유지를 위한 대시보드 구축 및 비즈니스적인 에러의 가시화
-- **Data Pipeline**: ELT 파이프라인 설계 — 다양한 원시 데이터를 클라우드 DW로 적재·변환, ML 워크로드에 최적화된 스키마 설계
+- **Data Engineering**: ELT 파이프라인 재설계 - Fivetran 벤더 종속성에서 벗어나 Airbyte Core로 이전, dbt query 최적화 및 mart 재설계
 
 ### Korea University — Research Intern
 - [**Unified SBOM**](https://github.com/brian-223134/Unified_SBOM): Syft + Hatbom을 통합한 SBOM 프로토타입 개발
