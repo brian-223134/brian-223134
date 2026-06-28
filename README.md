@@ -2,7 +2,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:232526,100:414345&height=180&text=Chan%20Joong,%20Kim&animation=fadeIn&fontColor=ffffff&fontSize=42&fontAlignY=36&desc=Backend%20%7C%20Data%20Engineering%20%7C%20DevOps&descSize=16&descAlignY=56" width="100%" />
 </div>
 
-
 <p align="center">
   <a href="mailto:cjkim2002@cau.ac.kr"><img src="https://img.shields.io/badge/Email-cjkim2002%40cau.ac.kr-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/brian-223134"><img src="https://img.shields.io/badge/GitHub-brian--223134-181717?style=flat-square&logo=github&logoColor=white"/></a>
@@ -138,4 +137,3 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=brian-223134&utm_content=farm">
 <img src="https://render.gitanimals.org/farms/brian-223134" width="600" height="300" />
 </a>
-
