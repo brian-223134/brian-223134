@@ -34,6 +34,9 @@
 <details>
 <summary><b>📌 상세 내용 보기</b></summary>
 
+### KAIST - Research Intern
+- [**Paper2Code**](https://arxiv.org/abs/2504.17192): 논문 구현 및 실증 테스트 진행
+
 ### Blitz-Dynamics — Dev Ops Intern
 - **IaC**: Pulumi를 활용한 AWS 리소스 프로비저닝 및 버전 관리
 - **Observability**: Datadog 실시간 대시보드 설계, Sentry 커스텀 태깅 기반 인시던트 대응 체계 구축
