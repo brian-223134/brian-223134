@@ -36,6 +36,7 @@
 
 ### KAIST - Research Intern
 - [**Paper2Code**](https://arxiv.org/abs/2504.17192): 논문 구현 및 실증 테스트 진행
+- Survey Agent 연구 보조
 
 ### Blitz-Dynamics — Dev Ops Intern
 - **IaC**: Pulumi를 활용한 AWS 리소스 프로비저닝 및 버전 관리
