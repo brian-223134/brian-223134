@@ -26,7 +26,7 @@
 
 | 기간 | 소속 | 역할 |
 |:---:|:---|:---|
-| 2026.07 ~ | **KAIST Data Intelligence System LAB** | Research Intern (AI Co-Scientist) |
+| 2026.07 ~ | **KAIST Data Intelligence System LAB** | Research Intern (AI Scientist) |
 | 2026.03 - 2026.06 | **Blitz-Dynamics** | Dev Ops Intern (산학협력) |
 | 2025.12 - 2026.02 | **고려대학교 컴퓨터통신보안연구실 (CCS LAB)** | Research Intern (Software Supply Chain) |
 | 2023.03 - 2024.07 | **USFK PMO (주한미군사령부 군사경찰참모부)** | KATUSA — Law Enforcement / Protection |
@@ -68,6 +68,8 @@
 
 ---
 
+<!--
+
 ## 🎓 Academic Projects
 
 | 프로젝트 | 기간 | 설명 |
@@ -76,6 +78,8 @@
 | **Huniverse** | 2025.07 - 2025.09 | AI 기반 파트너십 매칭 플랫폼. OpenAI API + 프롬프트 엔지니어링으로 제안서 자동 생성. Django, MySQL, AWS 활용 |
 
 ---
+
+-->
 
 ## 🚀 Tech Stack
 
@@ -120,6 +124,8 @@
 
 ---
 
+<!--
+
 ## 🏠 Activities
 
 - **CUAI** (중앙대 AI 학회) — LLM & Data Science 스터디 `2026`
@@ -129,6 +135,8 @@
 
 ---
 
+-->
+
 ## 📊 Problem Solving
 
 <a href="https://solved.ac/cjkim2002">
@@ -137,8 +145,12 @@
 
 ---
 
+<!--
+
 ## 🌾 Farm
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=brian-223134&utm_content=farm">
 <img src="https://render.gitanimals.org/farms/brian-223134" width="600" height="300" />
 </a>
+
+-->
