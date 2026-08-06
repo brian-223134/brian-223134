@@ -5,10 +5,11 @@
 <p align="center">
   <a href="mailto:cjkim2002@cau.ac.kr"><img src="https://img.shields.io/badge/Email-cjkim2002%40cau.ac.kr-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/brian-223134"><img src="https://img.shields.io/badge/GitHub-brian--223134-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="https://solved.ac/cjkim2002"><img src="https://img.shields.io/badge/Baekjoon-600%2B%20Solved-0076C0?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=white"/></a>
 </p>
 
 ---
+
+<!--
 
 ## About Me
 
@@ -19,6 +20,8 @@
 -  고려대학교 보안 연구실에서 **소프트웨어 공급망 보안(SBOM)** 연구 경험
 -  오픈소스 프로젝트 **anchore/syft**에 버그 리포트 및 기여
 -  관심 분야: **LLM / Agentic AI**, **Data Science/Engineer**, **DevOps**
+
+-->
 
 ---
 
@@ -113,6 +116,8 @@
 
 ---
 
+<!--
+
 ## 📜 Certifications & Scores
 
 | 항목 | 점수 / 등급 | 취득일 |
@@ -122,6 +127,8 @@
 | TOEIC | **890** (L:490 / R:400) | 2026.02 |
 
 ---
+
+-->
 
 <!--
 
