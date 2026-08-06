@@ -21,9 +21,9 @@
 -  오픈소스 프로젝트 **anchore/syft**에 버그 리포트 및 기여
 -  관심 분야: **LLM / Agentic AI**, **Data Science/Engineer**, **DevOps**
 
--->
-
 ---
+
+-->
 
 ## 💼 Experience
 
